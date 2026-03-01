@@ -1,0 +1,60 @@
+.dashboard-page .card {
+    border: 1px solid #e9ecef;
+    box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.04);
+}
+
+.dashboard-page .bullet-row {
+    border-bottom: 1px dashed #eceff1;
+    padding: 0.75rem 0;
+}
+
+.dashboard-page .bullet-row:last-child {
+    border-bottom: 0;
+}
+
+.dashboard-page .heatmap-table td {
+    width: 2rem;
+    height: 2rem;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 0.8rem;
+    border: 1px solid #f1f3f5;
+}
+
+.dashboard-page .heatmap-empty {
+    background: #f8f9fa;
+}
+
+.dashboard-page .heatmap-day {
+    color: #0d1b2a;
+}
+
+.dashboard-page .heatmap-0 {
+    background: #f8f9fa;
+}
+
+.dashboard-page .heatmap-1 {
+    background: #dff3e3;
+}
+
+.dashboard-page .heatmap-2 {
+    background: #bfe5c8;
+}
+
+.dashboard-page .heatmap-3 {
+    background: #96d5ab;
+}
+
+.dashboard-page .heatmap-4 {
+    background: #65c08e;
+}
+
+.dashboard-page .heatmap-5 {
+    background: #2f9e62;
+    color: #fff;
+}
+
+.landing-hero {
+    background: linear-gradient(135deg, #eff6ff 0%, #f8fafc 45%, #eef2ff 100%);
+    border: 1px solid #e5e7eb;
+}
